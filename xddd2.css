@@ -880,9 +880,8 @@ button[aria-label="Send a gift"] {
   display: none;
 }
 .wordmark-2iDDfm:after {
-  content: "POTITO GANG FOREVER!";
-  margin-left: auto;
-  margin-right: auto;
+  content: "POTITO GANG!";
+  content: center;
 }
 
 .channelName-2YrOjO,
